@@ -15,8 +15,6 @@
 
 <img src="https://img.shields.io/badge/MariaDB-000066?style=flat-square&logo=MariaDB&logoColor=#003545"/></a>
 <img src="https://img.shields.io/badge/MySQL-000066?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=111111"/></a>
-<img src="https://img.shields.io/badge/H2-111111?style=flat-square&logo=H2&logoColor=#DC382D"/></a>
 
 <br>
 
