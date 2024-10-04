@@ -9,12 +9,8 @@
   
 ## 🍣 Back-end Stack 🍣 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=111111"/></a>
-  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
 <img src="https://img.shields.io/badge/MariaDB-000066?style=flat-square&logo=MariaDB&logoColor=#003545"/></a>
 <img src="https://img.shields.io/badge/MySQL-000066?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>
-
-<br>
 
 ## 🍣 Cowork tools 🍣 
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#181717"/></a>
