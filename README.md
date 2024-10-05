@@ -9,7 +9,6 @@
   
 ## 🍣 Back-end Stack 🍣 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=111111"/></a>
-<img src="https://img.shields.io/badge/MariaDB-000066?style=flat-square&logo=MariaDB&logoColor=#003545"/></a>
 <img src="https://img.shields.io/badge/MySQL-000066?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>
 
 ## 🍣 Cowork tools 🍣 
