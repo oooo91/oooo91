@@ -11,7 +11,3 @@ spring boot, postgresql
 ## 🍣 Cowork tools 🍣 
 jira, confluence, notion, github
 
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oooo91&show_icons=true&theme=radical)
-</div>
