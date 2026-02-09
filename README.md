@@ -6,7 +6,7 @@
 <br>
 
 ## 🍣 Back-end Stack 🍣 
-spring boot, postgresql
+spring boot, postgresql, JPA
 
 ## 🍣 Cowork tools 🍣 
 jira, confluence, notion, github
