@@ -10,7 +10,7 @@
 Java, Spring Boot, Spring Data JPA, NestJS
 
 ### Concurrency / Execution
-Quartz, WebSocket, SSE, Redisson, Appium, Selenium
+Quartz, WebSocket, SSE, Redis, Appium, Selenium
 
 ### Database & Cache
 PostgreSQL, MariaDB, Redis
