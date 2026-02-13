@@ -1,13 +1,24 @@
 <div align="center">
   
-  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 <br>
 
-## 🍣 Back-end Stack 🍣 
-spring boot, postgresql, JPA
+## 🧩 Backend Engineer 🧩
 
-## 🍣 Cowork tools 🍣 
-jira, confluence, notion, github
+### Backend
+Java, Spring Boot, Spring Data JPA, NestJS
+
+### Concurrency / Execution
+Quartz, WebSocket, SSE, Redisson, Appium, Selenium
+
+### Database & Cache
+PostgreSQL, MariaDB, Redis
+
+### Infra & DevOps
+Docker, Docker Compose, AWS EC2 · ECS · ALB · Route53  
+GitHub Actions, OIDC, Nginx
+
+### Observability
+Prometheus, Grafana, k6
 
