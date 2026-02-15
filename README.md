@@ -7,7 +7,7 @@
 ## 🧩 Backend Engineer 🧩
 
 ### Backend
-Java, Spring Boot, Spring Data JPA, NestJS
+Java, Spring Boot, Spring Data JPA
 
 ### Concurrency / Execution
 Quartz, WebSocket, SSE, Redis, Appium, Selenium
