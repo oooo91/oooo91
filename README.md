@@ -17,8 +17,7 @@ PostgreSQL, MariaDB, Redis
 
 ### Infra & DevOps
 Docker, Docker Compose, AWS EC2 · ECS · ALB · Route53  
-GitHub Actions, OIDC, Nginx
+GitHub Actions, Nginx
 
-### Observability
-Prometheus, Grafana, k6
-
+### ETC
+JavaScript, html, css
